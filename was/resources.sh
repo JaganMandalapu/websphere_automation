@@ -1,8 +1,6 @@
 #Define global variables needed for WebSphere installation and configuration
 RUN_AS_ID=webadm
-RUN_AS_ID_PASSWORD=h1ghball
 WAS_ADMIN_ID=wasadmin
-WAS_ADMIN_PASSWORD=appserv4admin
 IM_DIR=/opt/software/IBM/InstallationManager/eclipse
 IM_REPO=/data/binaries/ibm/websphere/IM18
 IM_INSTALL_LOG=/data/scripts/logs/IM/im_install.log
